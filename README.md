@@ -9,5 +9,3 @@ It creates notes from YouTube videos, saves manual notes, and finds similar note
 Access is available on request. The prototype requires a username and password.
 
 **[Request access](https://github.com/vadimko2810/vadimko2810/issues/new?title=Prototype+access+request)**
-
-Do not post passwords or API keys in an issue. The application source repository is private.
